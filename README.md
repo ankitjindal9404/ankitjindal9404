@@ -1,8 +1,8 @@
-# Ankit Jindal's GitHub Profile
+# Hi 👋, I'm Ankit Jindal, DevOps Engineer
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Ankit Jindal, a **DevOps Engineer** with a background in **SEO** and a strong interest in cloud technologies. After spending 3.5 years working as a Senior SEO Specialist, I decided to switch to a more technical and growth-driven role in **DevOps**. Although I come from a commerce background, I’ve always been fascinated by the technical side of things, especially how automation, infrastructure, and cloud systems work.
+I'm Ankit Jindal, a **DevOps Engineer** with a background in **SEO** and a strong interest in cloud technologies.
 
 Currently, I’m focused on **learning DevOps tools**, **CI/CD pipelines**, and **cloud computing** as I look for new opportunities in this field.
 
@@ -16,36 +16,27 @@ I am actively learning from the ground up, studying software development, system
 
 ## 🔧 Skills & Tools
 
-- **Cloud Computing**: AWS (Amazon Web Services)
-- **Containerization & Orchestration**: Docker, Kubernetes
-- **CI/CD Pipeline**: Jenkins, GitHub Actions
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- **Automation Scripting**: Python, Bash
-- **Infrastructure as Code (IaC)**: Terraform
-- **Server Configuration Management**: Ansible
-- **Networking & Security**: Best Practices Implementation
-- **GitOps**: Deployment with ArgoCD
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Prometheus-EC6259?logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-26A6D1?logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/ArgoCD-1F75FF?logo=argo-cd&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx"/>
+</p>
 
 ---
 
 ## 📂 Projects
 
-Here are a few of my recent projects:
-
-### 1. **MERN Stack Blog Platform Deployment on AWS EKS with GitOps, DevSecOps & Monitoring**
-- Configured **GitOps** workflows using **ArgoCD** for continuous delivery.
-- Integrated **DevSecOps** practices using **SonarQube** (code quality and security scanning) and **Trivy** (container image vulnerability scanning).
-- Set up **Prometheus** and **Grafana** for monitoring and alerting on system performance.
-- Used **Helm** for managing Kubernetes applications.
-
-### 2. **AWS Lambda for Automated EBS Snapshot Cleanup**
-- Developed an **AWS Lambda function** using **Python** to automatically clean up stale EBS snapshots.
-- Reduced cloud storage costs by automating the deletion of unused snapshots.
-- Integrated **CloudWatch Events** to trigger the cleanup function periodically.
-
-### 3. **Automated AWS Infrastructure Provisioning with Terraform**
-- Automated the provisioning of AWS resources like **VPC**, **EC2 instances**, and **S3 storage** using **Terraform**.
-- Configured **Load Balancer (ALB)** to distribute traffic between web servers.
+- MERN Stack Blog Platform Deployment on AWS EKS with GitOps, DevSecOps & Monitoring.
+- AWS Lambda for Automated EBS Snapshot Cleanup.
+- Automated AWS Infrastructure Provisioning with Terraform.
 
 ---
 
