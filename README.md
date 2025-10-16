@@ -36,7 +36,7 @@ I am actively learning from the ground up, studying software development, system
 
 - MERN Stack Blog Platform Deployment on AWS EKS with GitOps, DevSecOps & Monitoring.
 - AWS Lambda for Automated EBS Snapshot Cleanup.
-- Automated AWS Infrastructure Provisioning with Terraform.
+- Infrastructure Monitoring Setup with Terraform – Prometheus, Grafana, CloudWatch & AWS SNS.
 
 ---
 
